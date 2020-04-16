@@ -1,12 +1,10 @@
-let a: string = "1 + 2"
-let b: string = "a + 3"
-let c = {
-    apple: a,
-    banana: b
-}
-let d: string = c.apple + "4"
+let a = 1
+let b = 1
 
-console.log(a)
-console.log(b)
-console.log(c)
-console.log(d)
+console.info(a)
+
+while (a < 50) {
+console.info(b)
+b = a + b
+a = b - a
+}
