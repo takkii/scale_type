@@ -1,8 +1,11 @@
-var a = 1;
-var b = 1;
-console.info(a);
-while (a < 50) {
-    console.info(b);
-    b = a + b;
-    a = b - a;
-}
+var a = "1 + 2";
+var b = "a + 3";
+var c = {
+    apple: a,
+    banana: b
+};
+var d = c.apple + "4";
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
