@@ -1,4 +1,4 @@
-var a = "~";
+var a = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
 var x = Math.random() < .5;
 if (x) {
     var b = '＜コ：彡';
@@ -6,7 +6,7 @@ if (x) {
     console.info(b);
 }
 else {
-    var c = '~';
+    var c = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
     console.info(c);
 }
 console.info(a);

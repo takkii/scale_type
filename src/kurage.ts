@@ -1,4 +1,4 @@
-let a: string = "~"
+let a: string = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 let x = Math.random() < .5
 
@@ -8,7 +8,7 @@ if(x){
     console.info(a)
     console.info(b)
 }else{
-    let c:string = '~'
+    let c:string = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     console.info(c)
 }
 
