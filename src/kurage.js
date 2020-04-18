@@ -1,13 +1,13 @@
 var a = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
 var x = 1 + Math.floor(Math.random() * 50);
-if (x < 25) {
+if (x < 20) {
     var b = ' ＜コ：彡 ＜コ：彡 ＜コ：彡 ';
     console.info(a);
     console.info(b);
 }
-else if (26 < x || x < 45) {
-    console.info(a);
+else if (21 < x || x < 41) {
     var d = ' ＜コ：彡   ＜コ：彡  ＜コ：彡  ＜コ：彡  ＜コ：彡  ＜コ：彡  ';
+    console.info(a);
     console.info(d);
 }
 else {
