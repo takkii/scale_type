@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "scale_type", "scale_type.njsproj", "{1AC317D5-43B5-4F24-B441-42F3F422FAA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC317D5-43B5-4F24-B441-42F3F422FAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC317D5-43B5-4F24-B441-42F3F422FAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC317D5-43B5-4F24-B441-42F3F422FAA1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC317D5-43B5-4F24-B441-42F3F422FAA1}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CCAAB1C-032F-4270-B862-F1A3A8521C26}
+	EndGlobalSection
+EndGlobal
