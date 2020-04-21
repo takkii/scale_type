@@ -1,4 +1,4 @@
-var x = 1 + Math.floor(Math.random() * 60);
+let x: number = 1 + Math.floor(Math.random() * 60);
 
 if(x < 20){
     let a: string = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
