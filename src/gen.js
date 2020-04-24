@@ -43,7 +43,9 @@ function createNumbers() {
         }
     });
 }
-var a, b, c;
+var a;
+var b;
+var c;
 var numbers = createNumbers();
 a = numbers.next();
 b = numbers.next();

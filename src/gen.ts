@@ -5,7 +5,10 @@ function* createNumbers(): Generator<number>{
     }
 }
 
-let a,b,c: string
+let a: number
+let b: number
+let c: number
+
 let numbers = createNumbers()
 a = numbers.next()
 b = numbers.next()
