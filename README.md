@@ -31,3 +31,11 @@
 
 ### くらげがランダムで表示されます。
 
+### tsconfig.json
+
+```markdown
+tsc -p ./tsconfig.json
+```
+
+#### tscがプロジェクトで走ります。
+
