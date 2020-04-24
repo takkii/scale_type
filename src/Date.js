@@ -1,3 +1,4 @@
+"use strict";
 function fancyDate() {
     return this.getFullYear() + "/" + (this.getMonth() + 1) + "/" + this.getDate();
 }
@@ -6,3 +7,4 @@ days = fancyDate.call(new Date);
 console.info(days);
 // OutPuts
 // 2020/4/24
+//# sourceMappingURL=date.js.map

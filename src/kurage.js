@@ -1,3 +1,4 @@
+"use strict";
 var x = 1 + Math.floor(Math.random() * 60);
 if (x < 20) {
     var a_1 = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
@@ -18,3 +19,4 @@ else {
     console.info(a_3);
     console.info(a_3);
 }
+//# sourceMappingURL=kurage.js.map

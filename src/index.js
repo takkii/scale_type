@@ -1,3 +1,4 @@
+"use strict";
 var a = "1 + 2";
 var b = "a + 3";
 var c = {
@@ -9,3 +10,4 @@ console.log(a);
 console.log(b);
 console.log(c);
 console.log(d);
+//# sourceMappingURL=index.js.map
