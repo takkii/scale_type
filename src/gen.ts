@@ -9,7 +9,7 @@ let a: number
 let b: number
 let c: number
 
-let numbers = createNumbers()
+let numbers: number = createNumbers()
 a = numbers.next()
 b = numbers.next()
 c = numbers.next()

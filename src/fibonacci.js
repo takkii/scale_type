@@ -7,4 +7,3 @@ while (a < 50) {
     b = a + b;
     a = b - a;
 }
-//# sourceMappingURL=fibonacci.js.map

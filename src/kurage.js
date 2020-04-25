@@ -19,4 +19,3 @@ else {
     console.info(a_3);
     console.info(a_3);
 }
-//# sourceMappingURL=kurage.js.map

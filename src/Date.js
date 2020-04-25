@@ -7,4 +7,3 @@ days = fancyDate.call(new Date);
 console.info(days);
 // OutPuts
 // 2020/4/24
-//# sourceMappingURL=date.js.map

@@ -53,4 +53,3 @@ c = numbers.next();
 console.info(a);
 console.info(b);
 console.info(c);
-//# sourceMappingURL=gen.js.map
